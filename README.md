@@ -1,5 +1,5 @@
 # Ascend Community
-
+This is a test.
 This is the repo for all the community related materials. You can find the
 following information.
 
