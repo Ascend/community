@@ -5,7 +5,13 @@ following information.
 
 ## Contributor License Agreement
 
-Please access [CLA sign page](https://clasign.osinfra.cn/sign/Z2l0ZWUlMkZhc2NlbmQ=) to sign the [Individual Contributor License Agreement](ICLA.txt).
+Please access [Gitee sign page](https://clasign.osinfra.cn/sign/Z2l0ZWUlMkZhc2NlbmQ=)
+or [GitHub sign page](https://clasign.osinfra.cn/sign/Z2l0aHViJTJGQXNjZW5k)
+to sign the [Individual Contributor License Agreement](ICLA.txt).
+
+> **NOTICE:** Currently the CLA information signed from `Gitee` and `GitHub` platform
+**CANNOT** interoperate with each other. Please reconfirm you choose the right place
+before submitting the sign request.
 
 ## Useful CI Commands
 
