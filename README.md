@@ -1,6 +1,6 @@
 # Ascend Community
 
-This is the repo for all the community related materials. You can find the
+This is the repo for all the community-related materials. You can find the
 following information.
 
 ## Contributor License Agreement
@@ -15,7 +15,7 @@ before submitting the sign request.
 
 ## Useful CI Commands
 
-Please check out some of the most useful [CI command](command.md)
+Please check out some of the most useful [CI commands](command.md)
 you could use.
 
 ## License
