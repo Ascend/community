@@ -1,0 +1,92 @@
+[
+  {
+    "words": [],
+    "label": "framework/profiling",
+    "name": "shibo19"
+  },
+  {
+    "words": [],
+    "label": "framework/parallel",
+    "name": "goodjobwubai"
+  },
+  {
+    "words": [],
+    "label": "framework/amp",
+    "name": "fairwarning"
+  },
+  {
+    "words": [],
+    "label": "framework/ops-adapter",
+    "name": "petissue"
+  },
+  {
+    "words": [],
+    "label": "framework/format",
+    "name": "li_chao10"
+  },
+  {
+    "words": [],
+    "label": "framework/precision",
+    "name": "goodjobwubai"
+  },
+  {
+    "words": [],
+    "label": "framework/built-install",
+    "name": "zhou_sinan"
+  },
+  {
+    "words": [],
+    "label": "framework/env",
+    "name": "weili10"
+  },
+  {
+    "words": [],
+    "label": "framework/doc",
+    "name": "yinzijun"
+  },
+  {
+    "words": [],
+    "label": "framework/api",
+    "name": "td__lihan"
+  },
+  {
+    "words": [],
+    "label": "framework/plugin",
+    "name": "you-ansheng"
+  },
+  {
+    "words": [],
+    "label": "ops/aicpu",
+    "name": "jayzlee147"
+  },
+  {
+    "words": [],
+    "label": "ops/aicore",
+    "name": "liubin4"
+  },
+  {
+    "words": [],
+    "label": "ops/hisi",
+    "name": "lihang90"
+  },
+  {
+    "words": [],
+    "label": "train/model",
+    "name": "matrixplayer"
+  },
+  {
+    "words": [],
+    "label": "infer/onnx-model",
+    "name": "Ronnie_zheng"
+  },
+  {
+    "words": [],
+    "label": "infer/onnx-ops",
+    "name": "Ronnie_zheng"
+  },
+  {
+    "words": [],
+    "label": "infer/doc",
+    "name": "liuquan21"
+  }
+]
