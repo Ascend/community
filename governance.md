@@ -54,6 +54,12 @@ Committer：团队拥有代码仓写入权限的核心开发者。
 
 Maintainer：团队的负责人，拥有该代码仓的写入权限，具有相关代码仓短期的技术方向的决策权，同时也是该代码仓的对外接口人。
 
+单元开发团队角色晋升机制：
+
+Contributor:外部开发者提交的代码/文档被当前单元开发团队接受并合入，将有资质申请单元开发团队Contributor，外部开发者可向Maintainer提交加入申请，Maintainer同意后可以成为Contributor。
+Reviewer:Contributor可以自己发起晋升为Reviewer角色的申请，此申请发送给Maintainer，由Maintainer组织团队Committer和Reviewer进行投票决策，Committer全票通过，Reviewer半数以上通过，则当前申请通过。团队Maintainer、Committer都有资格提名可晋升为Reviewer的Contributor,当被提名者同意后，由Maintainer发起投票机制，规则同上。
+Committer:Reviewer可以自己发起晋升为Committer角色的申请，此申请发送给Maintainer，由Maintainer组织团队Committer和Reviewer进行投票决策，Committer全票通过，Reviewer全票通过，则当前申请通过。团队Maintainer、Committer都有资格提名可晋升为Committer的Reviewer,当被提名者同意后，由Maintainer发起投票机制，规则同上。
+Maintainer:团队Maintainer由技术委员会决定。
 
 ## 反馈机制
 
