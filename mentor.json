@@ -88,5 +88,30 @@
     "words": [],
     "label": "infer/doc",
     "name": "liuquan21"
+  },
+  {
+    "words": [],
+    "label": "framework/apex",
+    "name": "fairwarning"
+  },
+  {
+    "words": [],
+    "label": "mindxsdk/plugin",
+    "name": "zhangdwe"
+  },
+  {
+    "words": [],
+    "label": "mindxsdk/postprocess",
+    "name": "kongchibin"
+  },
+  {
+    "words": [],
+    "label": "mindxsdk/pipeline",
+    "name": "dailinrui"
+  },
+  {
+    "words": [],
+    "label": "mindxsdk/doc",
+    "name": "wenbox"
   }
 ]
